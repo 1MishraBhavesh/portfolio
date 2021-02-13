@@ -1,0 +1,50 @@
+DOCTYPE html---->document type is html
+so that the browser like chrome and internet explorer knows 
+it has to read html page
+
+
+the all the document is between
+html tag
+
+
+we make a tag
+
+<tag_name >  </tag_name>
+<html>   </html>
+<head></head>--------------->contains or store information about the page.
+<title></title>
+
+<body></body>----------->the content which is displayed on the webpagehead
+ANCHOR TAG------------------->WE MAKE hyperlinks
+
+
+<a href =""></a>
+<a href="#"><a>
+<a> tag has an attribute called 'href'
+(hypertext reference) which is used to
+point the tag to other pages.
+Guide the student to use 'href'
+attribute to point it to hyperlinks.
+
+<img src= "image path"></img>
+The 'src' (source) attribute is used to
+give link to the image. You can add
+your images of your games in the
+same folder and use it in the src
+attribute.
+
+* -->selector --->all tags
+
+
+
+
+
+
+
+
+
+
+
+
+
+
